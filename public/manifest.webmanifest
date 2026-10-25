@@ -1,0 +1,10 @@
+{
+  "name": "CodeCanvas",
+  "short_name": "CodeCanvas",
+  "description": "A calm, local-first browser workspace for small coding projects.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171813",
+  "theme_color": "#171813",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
